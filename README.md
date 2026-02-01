@@ -1,4 +1,6 @@
 # EU-Energy-trends-and-the-German-Market
+## Author: Ishika Narang, Georgij Backhaus
+## Masters in Analytics and AI, ESMT Berlin
 
 ## Introduction
 Energy plays a fundamental role in a functional society. The process of a
